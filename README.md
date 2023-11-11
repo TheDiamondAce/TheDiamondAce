@@ -1,10 +1,19 @@
-### Hi there 👋
+# All About Me
+ 
+ ## What I plan to do in Github
+ I am currently working on a passion game called RPG POG and an another game called Jumper which is a platform game which makes you go up
 
-<!--
-**TheDiamondAce/TheDiamondAce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## Programming Languages I know (Listing based on expierence)
+C# *(Intermediate)*
 
-Here are some ideas to get you started:
+Java *(Beginner/Intermediate)*
 
+Python *(Beginner)*
+
+ ## When I started coding
+ I started when I was around 10 years old
+ 
+****
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
