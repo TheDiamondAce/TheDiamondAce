@@ -10,6 +10,10 @@ Java *(Beginner/Intermediate)*
 
 Python *(Beginner)*
 
+GDScript *(Beginner)*
+
+HTML *(Beginner)*
+
  ## When I started coding
  I started when I was around 10 years old
 
