@@ -18,4 +18,4 @@ HTML *(Beginner)*
  I started when I was around 10 years old
 
  ## What im learning right now
-Godot Scripting and HTML
+Python, Arudino, Welding
