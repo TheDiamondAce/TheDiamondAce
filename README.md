@@ -10,7 +10,7 @@ Java *(Beginner/Intermediate)*
 
 Python *(Beginner)*
 
-GDScript *(Beginner)*
+GDScript *(Intermediate)*
 
 HTML *(Beginner)*
 
